@@ -1,7 +1,7 @@
 name: Hello Flow
 on: 
- schedule:
-  - cron: '*/5 * * * *'
+  schedule:
+    - cron: '*/5 * * * *'
 jobs:
   first-job:
     runs-on: ubuntu-latest
@@ -10,4 +10,5 @@ jobs:
         run: echo "Hello World!"
       - name: Diga valeu
         run: echo "Valeu - bye!"
+
 
