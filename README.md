@@ -1,2 +1,2 @@
-# WA_FundCI_Laboa_01
+# WA_FundCI_Lab01_01
 Exercício  01 do Laboratório 01
